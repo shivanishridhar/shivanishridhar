@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivani Shridhar Gole</h1>
 <h3 align="center">A graduate student studying MSIS at Northeastern University!</h3>
-img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 - 🌱 I’m currently learning **AWS, Pipelines, CI/CD, Cassandra, MongoDB**
 
